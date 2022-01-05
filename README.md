@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&hide=c,meson,makefile,python,m4" alt="cheesits456's Top Languages" align="right" width="330">
 
-![cheesits456's GitHub Stats][github-stats-img]
+![matskrane's GitHub Stats][github-stats-img]
 
 
 📊 **My recent programming status:**
