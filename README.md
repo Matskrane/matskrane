@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&count_private=true&show_icons=true&include_all_commits=true
+[github-langs-img]: https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&hide=smarty
 
 
 📊 **My recent programming status:**
