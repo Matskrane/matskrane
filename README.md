@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-cheesits456's Top Languages
+[github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&count_private=true&show_icons=true&include_all_commits=true
 
 
 📊 **My recent programming status:**
