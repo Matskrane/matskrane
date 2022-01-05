@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&hide=c,meson,makefile,python,m4" alt="cheesits456's Top Languages" align="right" width="330">
 
-![matskrane's GitHub Stats][github-stats-img]
+![Matskrane's GitHub Stats][github-stats-img]
 
 
-📊 **My recent programming status:**
+##📊 **My recent programming status:**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
