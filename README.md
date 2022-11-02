@@ -2,30 +2,39 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Mats Krane</a></h1>
-<h3 align="center">A Frontend Developer from Norway &#127470;&#127475</h3>
+<h3 align="center">A Frontend Developer from Norway</h3>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on robinpedersen.no
+- 🌱 I’m currently learning Wordpress
+- 👯 I’m looking for Work
 -->
 
 ## My Skills
 
-<img src="https://matskrane-readme-stats.vercel.app/api/top-langs?username=matskrane&layout=compact&card_width=275&hide=c,meson,makefile,python,m4" alt="matskrane's Top Languages" align="right" width="330">
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 
-![Matskrane's GitHub Stats][github-stats-img]
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
 
-##📊 **My recent programming status:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+<br/>
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+
